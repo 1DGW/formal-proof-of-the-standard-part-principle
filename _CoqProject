@@ -1,0 +1,32 @@
+-docroot spp
+
+-Q mk mk
+
+mk/mk_structure.v
+mk/mk_theorems.v
+mk/operations_on_ω.v
+mk/infinite_sets.v
+mk/equivalence_relation.v
+
+
+-Q filters filters
+
+filters/filter.v
+filters/arithmetical_ultrafilter.v
+filters/filter_extension.v
+filters/existence_of_NPAUF.v
+
+
+-Q axiomatic_reals axiomatic_reals
+
+axiomatic_reals/R_axioms.v
+axiomatic_reals/R_is_infinite.v
+axiomatic_reals/seq_operations.v
+
+
+-Q hr_NPUF hr_NPUF
+
+hr_NPUF/construction_of_hr.v
+hr_NPUF/properties_of_hr.v
+hr_NPUF/standard_numbers_in_hr.v
+hr_NPUF/nonstandard_numbers_in_hr.v
